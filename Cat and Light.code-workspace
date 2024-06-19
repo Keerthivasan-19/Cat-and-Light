@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Cat-and-Light",
+			"path": "../Test/Cat-and-Light"
+		}
+	],
+	"settings": {}
+}
